@@ -1,5 +1,5 @@
 {
-	"name": "runtimer",
+	"name": "runtimer-d",
 	"description": "Application runtime configuration for applications built in the D programming language.",
 	"license": "The MIT License, see license file",
 	"copyright": "Copyright © 2016, Chris Barnes",
